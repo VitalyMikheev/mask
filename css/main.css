@@ -29,7 +29,6 @@ h1,h2,h3,h4,h5,h6 {
 .container {
 	width: 900px;
 	margin: 0 auto;
-	border: 1px solid green;
 }
 .back {
 	height: 701px;
@@ -627,7 +626,6 @@ h1,h2,h3,h4,h5,h6 {
 	width: 100%;	
 	margin: 0 auto; 
 	padding-top: 40px;
-	margin-bottom: 20px;
 	background-color: #FFF2EC;
 }
 .sliders {
@@ -975,6 +973,7 @@ h1,h2,h3,h4,h5,h6 {
 @media screen and (max-width: 1200px) {
 .container {
 	width: 960px;
+}
 }
 
 @media screen and (max-width: 992px) {
